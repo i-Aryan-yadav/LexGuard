@@ -1,0 +1,42 @@
+[
+    {
+        "type": "termination_archetype",
+        "templates": [
+            "The Client may terminate this agreement immediately without prior notice.",
+            "Reserves the right to terminate at its sole discretion.",
+            "May terminate for convenience without cause.",
+            "Unilateral right to terminate immediately.",
+            "At its absolute discretion, terminate this agreement."
+        ]
+    },
+    {
+        "type": "indemnity_archetype",
+        "templates": [
+            "Shall indemnify, defend and hold harmless the Client from all claims.",
+            "Indemnify against any loss, liability, damage or expense.",
+            "Full indemnity for all actions, proceedings, costs and demands.",
+            "Hold harmless against any and all claims arising out of performance.",
+            "Indemnification for any third-party claims."
+        ]
+    },
+    {
+        "type": "liability_cap_archetype",
+        "templates": [
+            "Liability shall be unlimited.",
+            "No limitation of liability shall apply.",
+            "Shall not be subject to any financial cap.",
+            "Unlimited liability for damages.",
+            "Without limit of liability."
+        ]
+    },
+    {
+        "type": "arbitration_bias_archetype",
+        "templates": [
+            "Sole arbitrator appointed exclusively by the Client.",
+            "Arbitrator selected solely by one party.",
+            "Arbitration panel nominated exclusively by the Company.",
+            "Unilateral appointment of the arbitrator.",
+            "Disputes resolved by an arbitrator appointed by the Licensor."
+        ]
+    }
+]

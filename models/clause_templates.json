@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Indemnity",
+    "templates": [
+      "The Provider shall indemnify and hold harmless the Client against any claims.",
+      "Provider agrees to indemnify Client from any liability arising out of services.",
+      "One party shall compensate the other for any harm or loss."
+    ]
+  },
+  {
+    "type": "Liability Cap",
+    "templates": [
+      "The total liability of either party shall not exceed the fees paid.",
+      "Liability is limited to the amount paid in the preceding 12 months.",
+      "In no event shall liability exceed $10,000."
+    ]
+  },
+  {
+    "type": "Termination",
+    "templates": [
+      "Either party may terminate this agreement with 30 days written notice.",
+      "This agreement may be terminated for cause immediately.",
+      "Termination for convenience is permitted upon notice."
+    ]
+  },
+  {
+    "type": "Confidentiality",
+    "templates": [
+      "Receiving party shall keep all information confidential.",
+      "Confidential information shall not be disclosed to third parties.",
+      "Standard non-disclosure obligations apply."
+    ]
+  },
+  {
+    "type": "Governing Law",
+    "templates": [
+      "This agreement shall be governed by the laws of the State of New York.",
+      "The laws of California shall apply.",
+      "Jurisdiction is exclusive to the courts of London."
+    ]
+  }
+]

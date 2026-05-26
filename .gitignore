@@ -1,0 +1,21 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+
+# Logs
+*.log
+
+# Build
+dist/
+build/
+
+# Models
+*.pt
+*.pth
+*.onnx

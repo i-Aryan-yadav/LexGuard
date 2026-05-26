@@ -1,0 +1,37 @@
+﻿[PASS] Immediate termination / sole judgment (Clause 3.4)
+       score=9.0  level=High  (expected: min=7.0, level=High)
+       snippet='te immediately without notice if, in its sole judgment, the'  party='Unknown'  cat='Power Imbalance'
+
+[FAIL] Liability shall be unlimited / no cap
+       score=5.0  level=Medium  (expected: min=7.0, level=High)
+       snippet='this agreement shall be unlimited and no cap shall apply'  party='Unknown'  cat='Financial Exposure'
+
+[PASS] No limitation shall apply
+       score=5.0  level=Medium  (expected: min=4.0, level=Medium)
+       snippet='the contrary, no limitation shall apply to damages arising from this'  party='Unknown'  cat='Financial Exposure'
+
+[PASS] Biased arbitration ΓÇö appointed exclusively (single signal)
+       score=3.0  level=Low  (expected: min=3.0, level=Low)
+       snippet='The sole arbitrator shall be appointed exclusivel'  party='Unknown'  cat='Dispute Risk'
+
+[PASS] Security deposit forfeiture
+       score=7.0  level=High  (expected: min=7.0, level=High)
+       snippet='of INR 50,000 shall be forfeited if the tenant vacates before'  party='Unknown'  cat='Financial Exposure'
+
+[PASS] Power reservation ΓÇö as it sees fit
+       score=2.0  level=Low  (expected: min=1.0, level=Low)
+       snippet='d deliverables as it sees fit without consulting the contra'  party='Unknown'  cat='Power Imbalance'
+
+[PASS] Balanced mutual arbitration (must NOT be High)
+       score=1.33  level=Low  (expected: min=0.0, level=None)
+       snippet='solved through binding arbitration, with each party appointing o'  party='Unknown'  cat='Dispute Risk'
+
+[PASS] Definitions NON_RISK (must be Informational)
+       score=0.0  level=Informational  (expected: min=0.0, level=Informational)
+       snippet=''  party='N/A'  cat='Informational'
+
+[PASS] One-sided indemnity (Medium risk)
+       score=5.0  level=Medium  (expected: min=4.0, level=Medium)
+       snippet='ntractor shall indemnify and hold harmless the Client from any and all'  party='Contractor'  cat='Financial Exposure'
+
+SOME CHECKS FAILED

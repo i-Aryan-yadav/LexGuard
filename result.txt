@@ -1,0 +1,19 @@
+[PASS] imm-term: score=9.0 level=High (exp_min=7.0 exp_lvl=High)
+  reasons: ['One-sided Termination: "te immediately without notice if, in its sole judgment, the"', 'Unqualified Discretion: "ice if, in its sole judgment, the other party has breached"', 'Power Reservation: "The Client reserves the right to terminate immediately with"']
+[PASS] unlimited: score=5.0 level=Medium (exp_min=5.0 exp_lvl=Medium)
+  reasons: ['Unlimited Liability: "this agreement shall be unlimited and no cap shall apply"']
+[PASS] no-limit: score=5.0 level=Medium (exp_min=4.0 exp_lvl=Medium)
+  reasons: ['Unlimited Liability: "No limitation shall apply to damages arising from this"']
+[PASS] biased-arb: score=3.0 level=Low (exp_min=3.0 exp_lvl=Low)
+  reasons: ['Biased Arbitration: "The sole arbitrator shall be appointed exclusivel"']
+[PASS] forfeiture: score=7.0 level=High (exp_min=7.0 exp_lvl=High)
+  reasons: ['Forfeiture Right: "of INR 50,000 shall be forfeited if the tenant vacates before"', 'Financial Deposit Risk: "The security deposit of INR 50,000 shall be forfei"']
+[PASS] sees-fit: score=2.0 level=Low (exp_min=1.0 exp_lvl=Low)
+  reasons: ['Power Reservation: "e deliverables as it sees fit"']
+[PASS] mutual-arb: score=1.33 level=Low (exp_min=0.0 exp_lvl=None)
+  reasons: ['Forced Arbitration: "solved through binding arbitration, each party appointing one ar"', 'Risk dampened: mutual obligation language detected.']
+[PASS] definitions: score=0.0 level=Informational (exp_min=0.0 exp_lvl=Informational)
+  reasons: ['Clause is informational and does not carry legal risk.']
+[PASS] indemnity: score=5.0 level=Medium (exp_min=4.0 exp_lvl=Medium)
+  reasons: ['Broad Indemnity: "ntractor shall indemnify and hold harmless the Client from any and all"', 'Indemnity appears one-directional (no mutual qualifier detected).']
+ALL PASS
